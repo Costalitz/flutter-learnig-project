@@ -1,21 +1,21 @@
 # TechTaste - Flutter App
 
-Projeto desenvolvido durante uma imersão em Flutter com o objetivo de aprender conceitos básicos de desenvolvimento mobile.
+Project developed during a Flutter immersion course with the goal of learning basic mobile development concepts.
 
-## Objetivo
+## Objective:
 
-Praticar:
+Practice:
 
-- Estrutura de aplicativos Flutter
-- Componentização de interface
-- Navegação entre telas
-- Organização de projeto mobile
+- Flutter application structure
+- Interface componentization
+- Navigation between screens
+- Mobile project organization
 
-## Tecnologias
+## Technologies:
 
 - Flutter
 - Dart
 
 ## Observação
 
-O projeto foi desenvolvido acompanhando uma imersão guiada, portanto, parte do código segue o modelo apresentado durante o evento. O foco foi o aprendizado prático da tecnologia.
+The project was developed during a guided immersion course; therefore, part of the code follows the model presented during the event. The focus was on practical learning of the technology.
