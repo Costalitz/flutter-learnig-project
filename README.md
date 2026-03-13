@@ -1,16 +1,21 @@
-# flutter_techtaste
+# TechTaste - Flutter App
 
-A new Flutter project.
+Projeto desenvolvido durante uma imersão em Flutter com o objetivo de aprender conceitos básicos de desenvolvimento mobile.
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+Praticar:
 
-A few resources to get you started if this is your first Flutter project:
+- Estrutura de aplicativos Flutter
+- Componentização de interface
+- Navegação entre telas
+- Organização de projeto mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+## Observação
+
+O projeto foi desenvolvido acompanhando uma imersão guiada, portanto, parte do código segue o modelo apresentado durante o evento. O foco foi o aprendizado prático da tecnologia.
