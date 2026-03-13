@@ -16,6 +16,6 @@ Practice:
 - Flutter
 - Dart
 
-## Observação
+## Note:
 
 The project was developed during a guided immersion course; therefore, part of the code follows the model presented during the event. The focus was on practical learning of the technology.
